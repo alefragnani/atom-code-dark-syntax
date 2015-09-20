@@ -1,16 +1,20 @@
 # Code Dark Syntax theme
 
-A dark syntax theme based on **Visual Studio Code**, with some tweaks.
+A dark syntax theme inspired on **Visual Studio Code**, with some tweaks.
 
 ## Supported Languages
 
-I tested it with a few languages, but intend to add more:
+I tested it with a few languages, and intend to add more:
 
 * LESS
 * Pascal
 * Java
 * Coffeescript
 * JavaScript
+* Markdown
+* Python
+* JSON
+* CSON
 
 ## Screenshots
 
@@ -24,11 +28,8 @@ I tested it with a few languages, but intend to add more:
 
 ## TODO
 
-* Add support for other languages:
- * Markdown
- * JSON
- * etc...
+* Support other languages
 
 ## Development Status
 
-The theme is _in early development_, so be patient :)
+The theme is _in development_, so be patient :)

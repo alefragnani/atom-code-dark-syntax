@@ -168,6 +168,12 @@ atom-text-editor .search-results .marker.current-result .region,
     &.comment {
       color: @light-gray;
     }
+    
+    //afm
+    &.begin,
+    &.end {
+      color: @purple;
+    }
 
     &.string,
     &.variable,
@@ -311,7 +317,32 @@ atom-text-editor .search-results .marker.current-result .region,
   &.heading {
     color: @green;
   }
+  
+  //afm
+  &.underline {
+    color: @purple;
+    text-decoration: underline;
+  }
+  
+  &.italic {
+    color: @very-light-gray;
+    text-decoration: italic;
+  }
+  
+  &.bold {
+    color: @very-light-gray;
+    font-weight: bold;
+  }
+  
+  //afm
+  &.raw {
+    color: @orange;
+  }
 }
+
+// .source.gfm .entity {
+//   color: @purple;
+// }
 
 atom-text-editor[mini] .scroll-view,
 :host([mini]) .scroll-view {
