@@ -16,11 +16,11 @@ I tested it with a few languages, but intend to add more:
 
 #### Pascal
 
-![Pascal](screenshot-pascal.png)
+![Pascal](https://raw.githubusercontent.com/alefragnani/atom-code-dark-syntax/master/screenshot-pascal.png)
 
 #### Java
 
-![Pascal](screenshot-java.png)
+![Pascal](https://raw.githubusercontent.com/alefragnani/atom-code-dark-syntax/master/screenshot-java.png)
 
 ## TODO
 
