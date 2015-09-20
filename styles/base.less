@@ -266,6 +266,8 @@ atom-text-editor .search-results .marker.current-result .region,
     background-color: @gray;
     color: @syntax-text-color;
   }
+  
+
 }
 
 .none {
@@ -312,6 +314,7 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 }
 
+// MARKDOWN
 .source.gfm .markup {
   -webkit-font-smoothing: auto;
   &.heading {
@@ -334,15 +337,44 @@ atom-text-editor .search-results .marker.current-result .region,
     font-weight: bold;
   }
   
-  //afm
   &.raw {
     color: @orange;
   }
 }
 
-// .source.gfm .entity {
-//   color: @purple;
-// }
+// JSON
+.source.json {
+
+  // key
+  .meta.structure.dictionary.json {
+    & > .string.quoted.json {
+      & > .punctuation.string {
+        color: @orange;
+      }
+      color: @orange;
+    }
+  }
+
+  // value
+  .meta.structure.dictionary.json, .meta.structure.array.json {
+    & > .value.json > .string.quoted.json,
+    & > .value.json > .string.quoted.json > .punctuation {
+      color: @green;
+    }
+
+    & > .constant.language.json {
+      color: @green;
+    }
+  }
+  
+  .punctuation.definition.dictionary {
+    &.begin.json,
+    &.end.json {
+    color: @syntax-text-color;
+    }
+  }
+}
+
 
 atom-text-editor[mini] .scroll-view,
 :host([mini]) .scroll-view {

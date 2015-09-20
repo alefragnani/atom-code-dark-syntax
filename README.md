@@ -6,15 +6,14 @@ A dark syntax theme inspired on **Visual Studio Code**, with some tweaks.
 
 I tested it with a few languages, and intend to add more:
 
-* LESS
 * Pascal
 * Java
 * Coffeescript
 * JavaScript
 * Markdown
 * Python
+* LESS
 * JSON
-* CSON
 
 ## Screenshots
 
