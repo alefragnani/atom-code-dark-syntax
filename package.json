@@ -1,0 +1,16 @@
+{
+  "name": "code-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark syntax theme based on Visual Studio Code, with some tweaks",
+  "keywords": [
+    "syntax",
+    "theme",
+    "code"
+  ],
+  "repository": "https://github.com/alefragnani/atom-code-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
