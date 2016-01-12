@@ -29,6 +29,6 @@ I tested it with a few languages, and intend to add more:
 
 * Support other languages
 
-## Development Status
+## License
 
-The theme is _in development_, so be patient :)
+[MIT](LICENSE.md) &copy; Alessandro Fragnani

@@ -1,3 +1,6 @@
+## 0.3.0 - License updated
+* License updated
+
 ## 0.2.0
 * Markdown support added
 * JSON support added
