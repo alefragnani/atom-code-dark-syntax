@@ -1,3 +1,6 @@
+## 0.4.0 - Donation button
+* Donation button added
+
 ## 0.3.0 - License updated
 * License updated
 
