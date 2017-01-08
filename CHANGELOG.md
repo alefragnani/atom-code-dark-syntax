@@ -1,3 +1,6 @@
+## 0.5.0 - Donation button
+* Support Atom 1.13 (Remove Shadow DOM)
+
 ## 0.4.0 - Donation button
 * Donation button added
 
