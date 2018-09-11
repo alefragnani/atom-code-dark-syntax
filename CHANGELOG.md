@@ -1,3 +1,6 @@
+## 0.6.0 - Patreon button
+* Patreon button added
+
 ## 0.5.0 - Donation button
 * Support Atom 1.13 (Remove Shadow DOM)
 
