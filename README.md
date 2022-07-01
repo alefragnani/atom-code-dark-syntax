@@ -1,5 +1,7 @@
 # Code Dark Syntax theme
 
+> Following Atom archiving in December 15, 2022, this package will be archived as well. Learn more in their [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+
 A dark syntax theme inspired on **Visual Studio Code**, with some tweaks.
 
 Works great with my [Code Dark UI theme](https://atom.io/themes/code-dark-ui) :smile:
